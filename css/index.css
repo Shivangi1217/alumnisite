@@ -39,7 +39,7 @@ title {
     background: url('../pic.webp') no-repeat center center/cover;
     position: absolute;
     height: 589px;
-    width: 100%;
+    width: 500px;
     top: 0px;
     left: 0px;
     z-index: -1;
@@ -61,7 +61,14 @@ title {
 
 
 
-
+#block_container
+{
+    text-align:center;
+}
+#desk, #regis
+{
+    display:inline;
+}
 
 
 
